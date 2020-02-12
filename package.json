@@ -14,11 +14,11 @@
   ],
   "main": "dist/angular-selectize.js",
   "description": "This is an Angular.js directive for Brian Reavis's selectize jQuery plugin. It supports all of Selectize's features",
-  "version": "3.0.3-tc.0",
+  "version": "3.0.3-tc.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tech-consortium/angular-selectize.git"
+    "url": "git://github.com/tech-consortium/angular-selectize2.git"
   },
   "dependencies": {
     "@tech-consortium/selectize": "^0.12.3-tc.0"
